@@ -1,2 +1,0 @@
-cd C:\Users\COSGC\GoogleDrive\SpaceGrantWarpDrive\Projects\GroundStation\600-Software\weather_automation\
-python C:\Users\COSGC\GoogleDrive\SpaceGrantWarpDrive\Projects\GroundStation\600-Software\weather_automation\weatherForecastMain.py

@@ -1,1 +1,0 @@
-python C:\Users\COSGC\GoogleDrive\SpaceGrantWarpDrive\Projects\GroundStation\600-Software\tle_updater\tle_updater.py
