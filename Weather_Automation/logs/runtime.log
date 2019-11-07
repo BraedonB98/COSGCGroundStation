@@ -1,0 +1,7 @@
+2019-09-02 17:42:34,696 INFO:weatherForecastMain:Requesting weather data...
+2019-09-02 17:42:35,630 INFO:weatherForecastMain:No weather alerts detected.
+2019-09-02 17:42:36,165 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-09-02 17:42:36,165 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-09-02 17:42:36,166 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-09-02 17:42:36,166 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-09-02 17:42:36,166 INFO:weatherForecastMain:No slack message due to no shutdowns.

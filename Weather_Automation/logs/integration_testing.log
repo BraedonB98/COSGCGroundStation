@@ -1,0 +1,579 @@
+2019-04-15 18:00:05,917 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:00:05,949 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:00:05,949 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:00:05,949 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-15 18:00:05,949 INFO:weatherForecastMain:Alert begins at 2019-04-11 01:00:34
+2019-04-15 18:00:05,949 INFO:weatherForecastMain:Alert ends at 2019-04-11 03:00:34
+2019-04-15 18:00:05,949 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:00:06,304 WARNING:weatherForecastMain:Not all automation programs are running:
+2019-04-15 18:00:06,304 WARNING:weatherForecastMain:WXtoIMG is stopped
+2019-04-15 18:00:06,304 WARNING:weatherForecastMain:SDRSharp is stopped
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-15 18:00:06,305 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-15 18:00:06,306 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-15 18:00:06,306 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-16 00:01:35 UTC)
+2019-04-15 18:00:06,306 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-17 00:00:05 UTC)
+2019-04-15 18:05:46,473 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:05:46,504 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:05:46,504 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:06:34,497 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:06:34,512 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:06:34,528 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:06:34,528 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:06:50,985 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:06:51,016 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:06:51,016 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:08:42,690 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:08:42,722 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:08:42,722 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:09:15,322 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:09:15,353 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:09:15,353 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:09:15,947 WARNING:weatherForecastMain:Not all automation programs are running:
+2019-04-15 18:09:15,947 WARNING:weatherForecastMain:WXtoIMG is stopped
+2019-04-15 18:09:15,947 WARNING:weatherForecastMain:SDRSharp is stopped
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-16 00:10:45 UTC)
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-16 03:15:37 UTC], next run at: 2019-04-16 03:15:37 UTC)
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-16 07:15:37 UTC], next run at: 2019-04-16 07:15:37 UTC)
+2019-04-15 18:09:15,962 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-17 00:09:15 UTC)
+2019-04-15 18:10:12,422 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:10:12,454 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:10:12,454 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:22:52,624 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:22:52,655 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:15:37
+2019-04-15 18:22:52,655 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:22:53,030 WARNING:weatherForecastMain:Not all automation programs are running:
+2019-04-15 18:22:53,030 WARNING:weatherForecastMain:WXtoIMG is stopped
+2019-04-15 18:22:53,030 WARNING:weatherForecastMain:SDRSharp is stopped
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-16 07:15:37 UTC], next run at: 2019-04-16 07:15:37 UTC)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-16 12:15:37 UTC], next run at: 2019-04-16 12:15:37 UTC)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-16 03:15:37 UTC], next run at: 2019-04-16 03:15:37 UTC)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-16 10:15:37 UTC], next run at: 2019-04-16 10:15:37 UTC)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-16 00:24:22 UTC)
+2019-04-15 18:22:53,030 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-17 00:22:52 UTC)
+2019-04-15 18:25:42,584 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Requesting weather data...
+2019-04-15 18:25:42,615 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-16 02:35:40
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-16 05:35:40
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Alert begins at 2019-04-16 10:35:40
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:Alert ends at 2019-04-16 12:35:40
+2019-04-15 18:25:42,615 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:25:42,631 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-15 18:25:42,631 INFO:weatherForecastMain:Alert begins at 2019-04-16 03:35:40
+2019-04-15 18:25:42,631 INFO:weatherForecastMain:Alert ends at 2019-04-16 07:35:40
+2019-04-15 18:25:42,631 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-15 18:25:43,209 WARNING:weatherForecastMain:Not all automation programs are running:
+2019-04-15 18:25:43,209 WARNING:weatherForecastMain:WXtoIMG is stopped
+2019-04-15 18:25:43,209 WARNING:weatherForecastMain:SDRSharp is stopped
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-15 18:25:43,240 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-16 07:35:40 UTC], next run at: 2019-04-16 07:35:40 UTC)
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-16 12:35:40 UTC], next run at: 2019-04-16 12:35:40 UTC)
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-16 03:35:40 UTC], next run at: 2019-04-16 03:35:40 UTC)
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-16 10:35:40 UTC], next run at: 2019-04-16 10:35:40 UTC)
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-16 00:27:12 UTC)
+2019-04-15 18:25:43,256 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-17 00:25:42 UTC)
+2019-04-17 16:02:35,480 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:02:35,527 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:02:35,543 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory and begins at 2019-04-18 00:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch and begins at 2019-04-18 03:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Alert begins at 2019-04-18 08:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Alert ends at 2019-04-18 10:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Weather warning is High Wind Watch.
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:Alert ends at 2019-04-18 05:12:24
+2019-04-17 16:02:35,543 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-17 16:02:35,949 DEBUG:weatherForecastMain:all programs stopped
+2019-04-17 16:02:36,308 DEBUG:weatherForecastMain:all programs stopped
+2019-04-17 16:02:54,000 INFO:app_control:Applications restarted
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-17 16:02:54,012 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:02:54,016 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-18 05:12:24 UTC], next run at: 2019-04-18 05:12:24 UTC)
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-18 10:12:24 UTC], next run at: 2019-04-18 10:12:24 UTC)
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-18 01:12:24 UTC], next run at: 2019-04-18 01:12:24 UTC)
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-18 08:12:24 UTC], next run at: 2019-04-18 08:12:24 UTC)
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:04:05 UTC)
+2019-04-17 16:02:54,017 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:02:35 UTC)
+2019-04-17 16:10:50,621 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:10:50,650 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:10:50,651 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-17 16:10:50,960 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:10:50,974 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:10:50,974 INFO:weatherForecastMain:Stop: ('Thu', '01', 1555572013.0) Start: ('Thu', '09', 1555600813.0)
+2019-04-17 16:10:50,974 INFO:weatherForecastMain:Stop: ('Thu', '01', 1555572013.0) Start: ('Thu', '09', 1555600813.0)
+2019-04-17 16:10:50,975 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:10:50,975 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:10:50,975 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-18 15:20:13 UTC], next run at: 2019-04-18 15:20:13 UTC)
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-19 05:20:13 UTC], next run at: 2019-04-19 05:20:13 UTC)
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-18 07:50:13 UTC], next run at: 2019-04-18 07:50:13 UTC)
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-18 21:50:13 UTC], next run at: 2019-04-18 21:50:13 UTC)
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:12:20 UTC)
+2019-04-17 16:10:50,979 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:10:50 UTC)
+2019-04-17 16:19:20,793 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:19:20,821 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:19:20,823 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-17 16:19:21,118 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:19:21,125 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-17 16:19:21,125 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:19:21,125 INFO:weatherForecastMain:Stop: ('Fri', '07', 1555680555.0) Start: (-1, -1, -1)
+2019-04-17 16:19:21,126 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:19:21,126 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:19:21,131 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:19:21,131 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-19 13:59:15 UTC], next run at: 2019-04-19 13:59:15 UTC)
+2019-04-17 16:19:21,131 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:20:50 UTC)
+2019-04-17 16:19:21,131 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:19:20 UTC)
+2019-04-17 16:22:04,150 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:22:04,178 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:22:04,179 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-17 16:22:04,553 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:22:04,578 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-17 16:22:04,578 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:22:04,578 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: ('Thu', '01', 1555572722.0)
+2019-04-17 16:22:04,581 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:22:04,581 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:22:04,590 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:22:04,590 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-18 07:32:02 UTC], next run at: 2019-04-18 07:32:02 UTC)
+2019-04-17 16:22:04,591 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:23:34 UTC)
+2019-04-17 16:22:04,591 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:22:04 UTC)
+2019-04-17 16:24:39,411 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:24:39,438 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:24:39,439 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-17 16:24:39,761 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:24:39,800 INFO:weatherForecastMain:Unpaired stop time. Placeholder added.
+2019-04-17 16:24:39,800 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:24:39,800 INFO:weatherForecastMain:Stop: ('Thu', '12', 1555612476.0) Start: ('Thu', '22', 1555648476.0)
+2019-04-17 16:24:39,800 INFO:weatherForecastMain:Stop: ('Fri', '08', 1555684476.0) Start: (-1, -1, -1)
+2019-04-17 16:24:39,802 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:24:39,803 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:24:39,803 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:24:39,810 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:24:39,810 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-19 04:34:36 UTC], next run at: 2019-04-19 04:34:36 UTC)
+2019-04-17 16:24:39,810 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-18 19:04:36 UTC], next run at: 2019-04-18 19:04:36 UTC)
+2019-04-17 16:24:39,810 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-19 15:04:36 UTC], next run at: 2019-04-19 15:04:36 UTC)
+2019-04-17 16:24:39,810 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:26:09 UTC)
+2019-04-17 16:24:39,811 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:24:39 UTC)
+2019-04-17 16:46:39,132 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:46:39,160 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:46:39,162 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-17 16:46:39,164 INFO:weatherForecastMain:Weather advisory is Chocolate Rain Advisory.
+2019-04-17 16:46:39,164 INFO:weatherForecastMain:The antenna remains fully operational.
+2019-04-17 16:46:39,165 INFO:weatherForecastMain:Weather watch is Jelly Bean Hurricane Watch.
+2019-04-17 16:46:39,166 INFO:weatherForecastMain:The antenna remains operational, despite inclement weather watch.
+2019-04-17 16:46:39,167 INFO:weatherForecastMain:Weather warning is Kale Storm Warning.
+2019-04-17 16:46:39,167 INFO:weatherForecastMain:Alert begins at 2019-04-18 08:56:37
+2019-04-17 16:46:39,167 INFO:weatherForecastMain:Alert ends at 2019-04-18 10:56:37
+2019-04-17 16:46:39,167 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-17 16:46:39,168 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-17 16:46:39,169 INFO:weatherForecastMain:Weather watch is High Wind Watch.
+2019-04-17 16:46:39,169 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:37
+2019-04-17 16:46:39,169 INFO:weatherForecastMain:Alert ends at 2019-04-18 05:56:37
+2019-04-17 16:46:39,169 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-17 16:46:39,169 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-17 16:46:39,610 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-17 16:46:39,623 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-18 05:56:37 UTC], next run at: 2019-04-18 05:56:37 UTC)
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-18 10:56:37 UTC], next run at: 2019-04-18 10:56:37 UTC)
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-18 01:56:37 UTC], next run at: 2019-04-18 01:56:37 UTC)
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-18 08:56:37 UTC], next run at: 2019-04-18 08:56:37 UTC)
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:48:09 UTC)
+2019-04-17 16:46:39,626 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:46:39 UTC)
+2019-04-17 16:56:22,547 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 16:56:22,575 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 16:56:22,577 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-17 16:56:22,943 DEBUG:weatherForecastMain:all programs running
+2019-04-17 16:56:22,949 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 16:56:22,949 INFO:weatherForecastMain:Stop: ('Thu', '01', 1555574778.0) Start: ('Thu', '09', 1555603578.0)
+2019-04-17 16:56:22,949 INFO:weatherForecastMain:Stop: ('Thu', '15', 1555625178.0) Start: ('Thu', '23', 1555653978.0)
+2019-04-17 16:56:22,951 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:56:22,952 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-17 16:56:22,952 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-18 16:06:18 UTC], next run at: 2019-04-18 16:06:18 UTC)
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-19 06:06:18 UTC], next run at: 2019-04-19 06:06:18 UTC)
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-18 08:36:18 UTC], next run at: 2019-04-18 08:36:18 UTC)
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-18 22:36:18 UTC], next run at: 2019-04-18 22:36:18 UTC)
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 22:57:52 UTC)
+2019-04-17 16:56:22,961 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 22:56:22 UTC)
+2019-04-17 17:46:07,814 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-17 17:46:07,843 INFO:weatherForecastMain:Requesting weather data...
+2019-04-17 17:46:07,845 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-17 17:46:07,845 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-17 17:46:07,845 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:04
+2019-04-17 17:46:07,845 INFO:weatherForecastMain:Alert ends at 2019-04-18 03:56:04
+2019-04-17 17:46:07,845 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-17 17:46:07,846 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-17 17:46:08,187 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-17 17:46:08,190 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-17 17:46:08,190 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-18 03:56:04 UTC], next run at: 2019-04-18 03:56:04 UTC)
+2019-04-17 17:46:08,190 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-18 01:56:04 UTC], next run at: 2019-04-18 01:56:04 UTC)
+2019-04-17 17:46:08,190 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-17 23:47:37 UTC)
+2019-04-17 17:46:08,190 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-18 23:46:07 UTC)
+2019-04-17 19:56:04,009 INFO:weatherForecastMain:Shutdown due to alert.
+2019-04-17 19:56:04,283 INFO:app_control: The process with PID 8312 (child process of PID 3016) has been terminated.
+2019-04-17 19:56:04,528 INFO:app_control: The process with PID 5680 (child process of PID 3016) has been terminated.
+2019-04-17 19:56:04,669 INFO:app_control: The process with PID 1620 (child process of PID 3016) has been terminated.
+2019-04-17 19:56:14,737 INFO:antenna_control:Serial connection established
+2019-04-17 19:57:29,824 INFO:antenna_control:Antenna parked
+2019-04-17 19:57:29,824 INFO:antenna_control:Serial connection terminated
+2019-04-17 21:56:04,016 INFO:weatherForecastMain:Startup due to alert.
+2019-04-17 21:56:22,650 INFO:app_control:Applications restarted
+2019-04-18 17:46:07,845 INFO:weatherForecastMain:Requesting weather data...
+2019-04-18 17:46:07,864 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-18 17:46:07,866 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-18 17:46:07,866 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:04
+2019-04-18 17:46:07,867 INFO:weatherForecastMain:Alert ends at 2019-04-18 03:56:04
+2019-04-18 17:46:07,867 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-18 17:46:07,869 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-18 17:46:08,403 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-18 17:46:08,403 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-18 17:46:08,403 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-18 17:46:08,403 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-18 17:46:08,404 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-19 17:46:07,851 INFO:weatherForecastMain:Requesting weather data...
+2019-04-19 17:46:07,859 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-19 17:46:07,863 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-19 17:46:07,863 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:04
+2019-04-19 17:46:07,863 INFO:weatherForecastMain:Alert ends at 2019-04-18 03:56:04
+2019-04-19 17:46:07,864 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-19 17:46:07,865 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-19 17:46:08,420 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-19 17:46:08,421 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-19 17:46:08,421 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-19 17:46:08,421 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-19 17:46:08,421 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-20 17:46:07,859 INFO:weatherForecastMain:Requesting weather data...
+2019-04-20 17:46:07,881 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-20 17:46:07,884 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-20 17:46:07,884 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:04
+2019-04-20 17:46:07,884 INFO:weatherForecastMain:Alert ends at 2019-04-18 03:56:04
+2019-04-20 17:46:07,884 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-20 17:46:07,886 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-20 17:46:08,384 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-20 17:46:08,384 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-20 17:46:08,384 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-20 17:46:08,384 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-20 17:46:08,385 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-21 17:46:07,846 INFO:weatherForecastMain:Requesting weather data...
+2019-04-21 17:46:07,868 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-21 17:46:07,870 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-21 17:46:07,871 INFO:weatherForecastMain:Alert begins at 2019-04-18 01:56:04
+2019-04-21 17:46:07,871 INFO:weatherForecastMain:Alert ends at 2019-04-18 03:56:04
+2019-04-21 17:46:07,871 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-21 17:46:07,872 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-21 17:46:08,463 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-21 17:46:08,463 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-21 17:46:08,463 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-21 17:46:08,463 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-21 17:46:08,463 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-22 16:42:28,804 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-22 16:42:28,858 INFO:weatherForecastMain:Requesting weather data...
+2019-04-22 16:42:28,860 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-22 16:42:28,862 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-22 16:42:28,863 INFO:weatherForecastMain:Alert begins at 2019-04-23 00:52:25
+2019-04-22 16:42:28,863 INFO:weatherForecastMain:Alert ends at 2019-04-23 02:52:25
+2019-04-22 16:42:28,863 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-22 16:42:28,868 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-22 16:42:29,169 INFO:weatherForecastMain:No start times in list. Placeholder added.
+2019-04-22 16:42:29,169 INFO:weatherForecastMain:No stop times in list. Placeholder added.
+2019-04-22 16:42:29,169 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-22 16:42:29,169 INFO:weatherForecastMain:Stop: (-1, -1, -1) Start: (-1, -1, -1)
+2019-04-22 16:42:29,169 INFO:weatherForecastMain:No slack message due to no shutdowns.
+2019-04-22 16:42:29,170 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-22 16:42:29,173 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-22 16:42:29,174 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-23 02:52:25 UTC], next run at: 2019-04-23 02:52:25 UTC)
+2019-04-22 16:42:29,174 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-23 00:52:25 UTC], next run at: 2019-04-23 00:52:25 UTC)
+2019-04-22 16:42:29,174 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-22 22:43:58 UTC)
+2019-04-22 16:42:29,174 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-23 22:42:28 UTC)
+2019-04-22 16:49:30,085 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-22 16:49:30,115 INFO:weatherForecastMain:Requesting weather data...
+2019-04-22 16:49:30,117 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-22 16:49:30,415 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-22 16:49:30,415 INFO:weatherForecastMain:Stop: ('Mon', '18', 1555981167.0) Start: ('Mon', '22', 1555995567.0)
+2019-04-22 16:49:30,417 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-22 16:49:30,417 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-22 16:49:30,419 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-22 16:49:30,419 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-23 04:59:27 UTC], next run at: 2019-04-23 04:59:27 UTC)
+2019-04-22 16:49:30,419 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-23 01:29:27 UTC], next run at: 2019-04-23 01:29:27 UTC)
+2019-04-22 16:49:30,419 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-22 22:51:00 UTC)
+2019-04-22 16:49:30,419 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-23 22:49:30 UTC)
+2019-04-24 17:34:52,071 INFO:system_control:Switch is responding
+2019-04-24 17:34:53,413 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-24 17:34:53,487 INFO:weatherForecastMain:Requesting weather data...
+2019-04-24 17:34:53,489 INFO:weatherForecastMain:No weather alerts detected.
+2019-04-24 17:34:53,818 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-24 17:34:53,818 INFO:weatherForecastMain:Stop: ('Wed', '19', 1555981629.0) Start: ('Wed', '23', 1555996029.0)
+2019-04-24 17:34:53,823 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-24 17:34:53,823 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-24 17:34:53,830 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-24 17:34:53,831 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-24 23:36:23 UTC)
+2019-04-24 17:34:53,831 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-25 23:34:53 UTC)
+2019-04-24 17:35:32,885 INFO:system_control:Switch is responding
+2019-04-24 17:35:34,176 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-24 17:35:34,204 INFO:weatherForecastMain:Requesting weather data...
+2019-04-24 17:35:34,206 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-24 17:35:34,207 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-24 17:35:34,207 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:28
+2019-04-24 17:35:34,207 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:28
+2019-04-24 17:35:34,207 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-24 17:35:34,208 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-24 17:35:34,468 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-24 17:35:34,468 INFO:weatherForecastMain:Stop: ('Wed', '17', 1556149528.0) Start: ('Wed', '23', 1556171128.0)
+2019-04-24 17:35:34,468 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-24 17:35:34,469 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: startup (trigger: date[2019-04-25 05:45:28 UTC], next run at: 2019-04-25 05:45:28 UTC)
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: shutdown (trigger: date[2019-04-25 00:15:28 UTC], next run at: 2019-04-25 00:15:28 UTC)
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: alert_startup (trigger: date[2019-04-25 03:45:28 UTC], next run at: 2019-04-25 03:45:28 UTC)
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: alert_shutdown (trigger: date[2019-04-25 01:45:28 UTC], next run at: 2019-04-25 01:45:28 UTC)
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-24 23:37:04 UTC)
+2019-04-24 17:35:34,474 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-25 23:35:34 UTC)
+2019-04-24 18:15:28,181 INFO:app_control: The process with PID 10248 (child process of PID 5340) has been terminated.
+2019-04-24 18:15:28,300 INFO:app_control: The process with PID 4668 (child process of PID 8840) has been terminated.
+2019-04-24 18:15:28,406 INFO:app_control: The process with PID 4364 (child process of PID 8840) has been terminated.
+2019-04-24 18:15:38,465 INFO:antenna_control:Serial connection established
+2019-04-24 18:16:53,555 INFO:antenna_control:Antenna parked
+2019-04-24 18:16:53,555 INFO:antenna_control:Serial connection terminated
+2019-04-24 19:45:28,002 INFO:weatherForecastMain:Shutdown due to alert.
+2019-04-24 19:45:28,193 WARNING:app_control: The process "xwxtoimg.exe" not found.
+2019-04-24 19:45:28,288 WARNING:app_control: The process "SDRSharp.exe" not found.
+2019-04-24 19:45:28,370 WARNING:app_control: The process "SatPC32.exe" not found.
+2019-04-24 19:45:38,429 INFO:antenna_control:Serial connection established
+2019-04-24 19:46:53,554 INFO:antenna_control:Antenna parked
+2019-04-24 19:46:53,554 INFO:antenna_control:Serial connection terminated
+2019-04-24 21:45:28,001 INFO:weatherForecastMain:Startup due to alert.
+2019-04-24 21:45:31,452 INFO:system_control:In turn_on(): Rotator Controller is now ON
+2019-04-24 21:45:35,924 INFO:system_control:In turn_on(): LNA/Rotator Interface is now ON
+2019-04-24 21:45:58,132 INFO:app_control:Applications restarted
+2019-04-25 17:35:34,206 INFO:weatherForecastMain:Requesting weather data...
+2019-04-25 17:35:34,238 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-25 17:35:34,244 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-25 17:35:34,245 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:28
+2019-04-25 17:35:34,246 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:28
+2019-04-25 17:35:34,246 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-25 17:35:34,251 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-25 17:35:34,604 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-25 17:35:34,604 INFO:weatherForecastMain:Stop: ('Thu', '17', 1556149528.0) Start: ('Thu', '23', 1556171128.0)
+2019-04-25 17:35:34,605 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-26 17:35:34,205 INFO:weatherForecastMain:Requesting weather data...
+2019-04-26 17:35:34,243 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-26 17:35:34,248 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-26 17:35:34,248 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:28
+2019-04-26 17:35:34,248 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:28
+2019-04-26 17:35:34,248 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-26 17:35:34,249 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-26 17:35:34,637 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-26 17:35:34,637 INFO:weatherForecastMain:Stop: ('Fri', '17', 1556149528.0) Start: ('Fri', '23', 1556171128.0)
+2019-04-26 17:35:34,637 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-27 17:35:34,205 INFO:weatherForecastMain:Requesting weather data...
+2019-04-27 17:35:34,211 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-27 17:35:34,213 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-27 17:35:34,213 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:28
+2019-04-27 17:35:34,213 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:28
+2019-04-27 17:35:34,213 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-27 17:35:34,213 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-27 17:35:34,550 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-27 17:35:34,550 INFO:weatherForecastMain:Stop: ('Sat', '17', 1556149528.0) Start: ('Sat', '23', 1556171128.0)
+2019-04-27 17:35:34,550 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-28 17:35:34,216 INFO:weatherForecastMain:Requesting weather data...
+2019-04-28 17:35:34,221 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-28 17:35:34,226 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-28 17:35:34,226 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:28
+2019-04-28 17:35:34,226 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:28
+2019-04-28 17:35:34,226 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-28 17:35:34,227 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-28 17:35:34,685 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-28 17:35:34,686 INFO:weatherForecastMain:Stop: ('Sun', '17', 1556149528.0) Start: ('Sun', '23', 1556171128.0)
+2019-04-28 17:35:34,686 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-29 16:43:54,202 INFO:system_control:Switch is responding
+2019-04-29 16:43:55,514 INFO:weatherForecastMain:
+----------------Restart----------------
+
+2019-04-29 16:43:55,572 INFO:weatherForecastMain:Requesting weather data...
+2019-04-29 16:43:55,574 WARNING:weatherForecastMain:A weather alert has been detected.
+2019-04-29 16:43:55,574 INFO:weatherForecastMain:Weather warning is High wind warning.
+2019-04-29 16:43:55,575 INFO:weatherForecastMain:Alert begins at 2019-04-25 01:45:S
+2019-04-29 16:43:55,575 INFO:weatherForecastMain:Alert ends at 2019-04-25 03:45:S
+2019-04-29 16:43:55,575 INFO:weatherForecastMain:The antenna parks and communications cease due to weather conditions.
+2019-04-29 16:43:55,580 INFO:weatherForecastMain:Slack message sent due to weather alert.
+2019-04-29 16:43:55,924 INFO:weatherForecastMain:Beginning list of stop and start times
+2019-04-29 16:43:55,924 INFO:weatherForecastMain:Stop: ('Mon', '16', 1556149528.0) Start: ('Mon', '22', 1556171128.0)
+2019-04-29 16:43:55,924 INFO:weatherForecastMain:Slack message sent due to scheduled shutdown.
+2019-04-29 16:43:55,924 INFO:weatherForecastMain:mode temporarily set to 'auto' to allow jobs to be updated.
+2019-04-29 16:43:55,927 INFO:weatherForecastMain:List of currently scheduled jobs:
+2019-04-29 16:43:55,927 INFO:weatherForecastMain:Scheduled job: check_mode (trigger: interval[0:01:30], next run at: 2019-04-29 22:45:25 UTC)
+2019-04-29 16:43:55,927 INFO:weatherForecastMain:Scheduled job: hourly_two_day (trigger: interval[1 day, 0:00:00], next run at: 2019-04-30 22:43:55 UTC)
