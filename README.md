@@ -1,13 +1,6 @@
 # COSGCGroundStation
 CU Colorado Space Grant Ground Station Code Repository
 
-Version 1.0
-Here we will be adding all previous files that were used by COSGC ground station before Fall 2019 These include the following
--Launch Roof Camera
--Fix Keplers
--TLE Updater
--Weather Automation
-
-Version 1.01
-- Replace the files that were on the google drive with the files that are on the ground station computer
-- Added automated startup
+Notes
+- Ground station weather automation can be implemented way better than it was last semester
+- I think the issue with the dde may be in the DivOptions folder for satpc32. Try copying this file from the old ground stations and pasting in the new ground station and see if it fixes my issue.
